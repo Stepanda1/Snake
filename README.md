@@ -1,2 +1,2 @@
 # Snake
-## stepanda1.github.io/Snake/
+## https://stepanda1.github.io/Snake/
